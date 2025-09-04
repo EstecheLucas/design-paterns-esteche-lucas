@@ -1,0 +1,1 @@
+{"version":3,"file":"EquipoBaseP2.d.ts","sourceRoot":"","sources":["../../src/models/EquipoBaseP2.ts"],"names":[],"mappings":"AAAA,8BAAsB,UAAU;IAE5B,SAAS,CAAC,MAAM,EAAE,MAAM;IACxB,SAAS,CAAC,GAAG,EAAE,MAAM;IACrB,SAAS,CAAC,UAAU,EAAE,MAAM;gBAFlB,MAAM,EAAE,MAAM,EACd,GAAG,EAAE,MAAM,EACX,UAAU,EAAE,MAAM;IAG9B,QAAQ,CAAC,QAAQ,IAAI,MAAM;CAC5B"}

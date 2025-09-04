@@ -1,0 +1,1 @@
+{"version":3,"file":"EquipoData.d.ts","sourceRoot":"","sources":["../../src/interfaces/EquipoData.ts"],"names":[],"mappings":"AAAA,MAAM,MAAM,MAAM,GAAG,YAAY,GAAG,eAAe,GAAG,SAAS,CAAC;AAEhE,MAAM,WAAW,UAAU;IACzB,MAAM,EAAE,MAAM,CAAC;IACf,IAAI,EAAE,MAAM,CAAC;IACb,MAAM,EAAE,MAAM,CAAC;CAChB"}

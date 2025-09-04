@@ -1,0 +1,1 @@
+{"version":3,"file":"NotebookP2.js","sourceRoot":"","sources":["../../src/models/NotebookP2.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,UAAU,EAAE,MAAM,mBAAmB,CAAC;AAE/C,MAAM,OAAO,QAAS,SAAQ,UAAU;IACtC,QAAQ;QACN,OAAO,2BAA2B,IAAI,CAAC,MAAM,UAAU,IAAI,CAAC,GAAG,iBAAiB,IAAI,CAAC,UAAU,EAAE,CAAC;IACpG,CAAC;CACF"}

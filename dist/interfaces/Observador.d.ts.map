@@ -1,0 +1,1 @@
+{"version":3,"file":"Observador.d.ts","sourceRoot":"","sources":["../../src/interfaces/Observador.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,MAAM,EAAE,MAAM,iBAAiB,CAAC;AAE9C,MAAM,WAAW,UAAU;IACzB,SAAS,CAAC,MAAM,EAAE,GAAG,EAAE,WAAW,EAAE,MAAM,GAAG,IAAI,CAAC;CACnD"}
